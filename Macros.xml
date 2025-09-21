@@ -95,11 +95,20 @@ noglues
         <name>Exposition</name>
     </macro>
     <macro>
+        <!-- Apostrophe -->
         <key>'</key>
         <text>
 radio free zerg
 </text>
         <name>Bonus Song</name>
+    </macro>
+    <macro>
+        <!-- Grave (Backtick) -->
+        <key>`</key>
+        <text>
+zoom zoom
+</text>
+        <name>Zoom</name>
     </macro>
     <macro>
         <key>\</key>
