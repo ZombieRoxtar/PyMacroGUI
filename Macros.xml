@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Example macro file contains cheats for StarCraft, except "Ophelia" -->
+<macros>
+    <macro>
+        <key>/</key>
+        <!--
+            Indentation is strange because
+            SC requies the enter key to cheat.
+        -->
+        <text>
+black sheep wall
+</text>
+        <name>Vision</name>
+    </macro>
+    <macro>
+        <key>*</key>
+        <text>
+power overwhelming
+</text>
+        <name>God Mode</name>
+    </macro>
+    <macro>
+        <key type="s">home</key>
+        <text>
+the gathering
+</text>
+        <name>Energy</name>
+    </macro>
+    <macro>
+        <key type="s">up</key>
+        <text>
+operation cwal
+</text>
+        <name>Speed</name>
+    </macro>
+    <macro>
+        <key type="s">page_up</key>
+        <text>
+show me the money
+</text>
+        <name>Money</name>
+    </macro>
+    <macro>
+        <key type="s">left</key>
+        <text>
+food for thought
+</text>
+        <name>Food</name>
+    </macro>
+    <macro>
+        <key type="v">65437</key>
+        <!-- Numpad 5 -->
+        <text>
+whats mine is mine
+</text>
+        <name>Minerals</name>
+    </macro>
+    <macro>
+        <key type="s">right</key>
+        <text>
+breathe deep
+</text>
+        <name>Vespene</name>
+    </macro>
+    <macro>
+        <key type="s">end</key>
+        <text>
+modify the phase variance
+</text>
+        <name>Tech Tree</name>
+    </macro>
+    <macro>
+        <key type="s">down</key>
+        <text>
+something for nothing
+</text>
+        <name>Upgrades</name>
+    </macro>
+    <macro>
+        <key type="s">page_down</key>
+        <text>
+medieval man
+</text>
+        <name>Research</name>
+    </macro>
+    <macro>
+        <key type="s">insert</key>
+        <text>
+noglues
+</text>
+        <!--
+            Disables chapter and exposition
+            screens in between campaign levels
+        -->
+        <name>Exposition</name>
+    </macro>
+    <macro>
+        <key>'</key>
+        <text>
+radio free zerg
+</text>
+        <name>Bonus Song</name>
+    </macro>
+    <macro>
+        <key>\</key>
+        <text>
+war aint what it used to be
+</text>
+        <name>Fog of War</name>
+    </macro>
+    <macro>
+        <key>;</key>
+        <text>
+staying alive
+</text>
+        <name>Endless</name>
+    </macro>
+    <macro>
+        <key>-</key>
+        <text>
+game over man
+</text>
+        <name>Lose</name>
+    </macro>
+    <macro>
+        <key>=</key>
+        <text>
+there is no cow level
+</text>
+        <name>Win</name>
+    </macro>
+</macros>
