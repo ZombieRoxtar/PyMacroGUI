@@ -1,0 +1,1 @@
+These scripts use a custom class to hold global macros, which activate with a single key and then playback strings of text. The GUI uses QT6 to create a window with scrollable tab handles to edit, delete, and create macros.
